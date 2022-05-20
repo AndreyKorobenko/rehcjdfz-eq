@@ -1,0 +1,15 @@
+C:\Users\Andrey\source\repos\Курсач\Курсач\bin\Debug\Database1.mdf
+C:\Users\Andrey\source\repos\Курсач\Курсач\bin\Debug\Database1_log.ldf
+C:\Users\Andrey\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\Andrey\source\repos\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\Andrey\source\repos\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.AddProducts.resources
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\Andrey\source\repos\Курсач\Курсач\obj\Debug\Курсач.SearchProduct.resources
